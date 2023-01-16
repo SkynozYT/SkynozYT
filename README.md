@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Skynoz</h1>
-<h3 align="center">A developer passionate about IT since a young age</h3>
+<h3 align="center">Un développeur passionné par l'informatique depuis son plus jeune âge</h3>
 
 <p align="left"> <a href="https://twitter.com/skynozyt2" target="blank"><img src="https://img.shields.io/twitter/follow/skynozyt2?logo=twitter&style=for-the-badge" alt="skynozyt2" /></a> </p>
 
-- 🔭 I’m currently working on **MenuF5 V1**
+- 🔭 Je travaille actuellement sur **MenuF5 V1**
 
-- 🔭 I’m currently working on **Mapping Concessionnaire V1**
+- 🔭 Je travaille actuellement sur **Mapping Concessionnaire V1**
 
-- 📫 How to contact me? **skynozgamefr.contact@gmail.com**
+- 📫 Comment me contacter ? **skynozgamefr.contact@gmail.com**
 
 <h3 align="left">Pour me suivre sur mes réseaux sociaux ! </h3>
 <p align="left">
