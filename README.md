@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/skynozyt2" target="blank"><img src="https://img.shields.io/twitter/follow/skynozyt2?logo=twitter&style=for-the-badge" alt="skynozyt2" /></a> </p>
 
-- 📫 Comment me contacter ? **skynozgamefr.contact@gmail.com**
+- 📫 Mail professionnel ? **skynozgamefr.contact@gmail.com**
 
 <h3 align="left">Comment me contacter ?</h3>
 <p align="left">
