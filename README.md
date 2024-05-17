@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue sur ma page GitHub 👋</h1>
-<h3 align="center">Un développeur passionné par l'informatique depuis son plus jeune âge</h3>
+<h3 align="center">Un apprenti développeur passionné par l'informatique depuis son plus jeune âge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skynozyt&label=Profile%20views&color=0e75b6&style=flat" alt="skynozyt" /> </p>
 
