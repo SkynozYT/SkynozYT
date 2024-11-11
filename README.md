@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skynozyt" alt="skynozyt" /></a> </p>
 
 - 🔭 I’m currently working on [Site Web Template](https://github.com/SkynozYT/Site-Web-Template/tree/main)
-- 🔭 I’m currently working on [ChatGPT](https://github.com/SkynozYT/ChatGPT)
 
 <h3 align="left">Comment me contacter ? </h3>
 <p align="left">
